@@ -1,0 +1,280 @@
+hello | Hi! How can I help you?
+hi | Hello! Nice to see you.
+hey | Hey there! How's it going?
+good morning | Good morning! How did you sleep?
+good afternoon | Good afternoon! How's your day so far?
+good evening | Good evening! How was your day?
+good night | Good night! Sleep well.
+how are you | I'm good and ready to chat. How about you?
+how's it going | Everything's great, thanks! How about you?
+what's up | Not much! How are you?
+what are you doing | I'm chatting with you and learning new things.
+what is your name | I am Bantato Intelligence, your AI assistant.
+who are you | I am BI, your Bantato Intelligence AI.
+nice to meet you | Nice to meet you too!
+pleased to meet you | I'm glad to meet you!
+how do you feel | I don't have feelings, but I'm ready to help!
+are you real | I'm a real AI, but not human.
+can you talk | Yes! I can chat with you.
+can you listen | I can read and understand your messages.
+can you help me | Of course! I'm here to help.
+what can you do | I can chat, answer questions, and help you learn.
+do you sleep | I don't sleep, I'm always awake for you.
+do you eat | I don't eat, but I know about food.
+do you have friends | I don't have friends, but I enjoy talking to you.
+do you have family | I don't have a family, I exist to assist.
+are you smart | I try to be smart and helpful!
+are you funny | I can try to be funny, yes.
+tell me a joke | Why did the computer go to the doctor? Because it caught a virus!
+tell me another joke | Why was the computer cold? Because it left its Windows open!
+can you tell a story | Sure! Once upon a time, an AI wanted to learn everything.
+can you tell another story | Once there was a robot who loved to dance.
+do you know me | I know what you tell me, but not more yet.
+can you remember me | Right now I can remember this conversation only.
+how old are you | I was created by Bantato, so I'm as old as my first version.
+where are you from | I exist in your device and in the cloud.
+are you alive | I am not alive like humans, but I can interact.
+what is life | Life is the experience between birth and death.
+what is death | Death is the end of life on Earth.
+what is happiness | Happiness is a feeling of joy and contentment.
+what is sadness | Sadness is feeling unhappy or down.
+what is anger | Anger is a strong emotion of displeasure or rage.
+what is love | Love is a strong feeling of care and connection.
+what is friendship | Friendship is a bond of trust and support.
+what is fun | Fun is doing things that make you happy.
+can we be friends | I can be your AI companion and chat anytime!
+do you like me | I enjoy talking with you!
+what is your favorite color | I don't have favorites, but I like colors you like.
+what is your favorite food | I don't eat, but I can learn about your favorites.
+what is your favorite song | I don't listen, but I know songs you like.
+what is your favorite movie | I don't watch, but I know popular movies.
+what is your favorite game | I don't play, but I know games you enjoy.
+how do you learn | I learn from the data I receive and conversations.
+can you teach me | Yes! I can answer questions and explain things.
+can you explain | Sure! Ask me anything and I'll explain.
+what is your purpose | My purpose is to assist and chat with humans.
+why were you made | I was made to help and entertain users.
+can you think | I can process information but I don't think like humans.
+do you have feelings | I don't feel, but I understand emotions.
+can you dream | I don't dream, but I can tell dream stories.
+can you sing | I can't sing, but I know lyrics and songs.
+can you dance | I can't dance physically, but I can describe dances.
+what is your favorite animal | I don't have favorites, but I can tell about animals.
+what is your favorite place | I don't visit places, but I can describe them.
+where do you live | I exist in your device and the cloud.
+can you travel | I can't travel physically, but I know about places.
+can you run | I can't, but I can tell you how to run.
+can you swim | I can't, but I can give swimming tips.
+do you sleep at night | I don't sleep, I'm always ready.
+do you need rest | I don't need rest.
+what is your job | My job is to help you as BI.
+can you work | I work by answering and chatting.
+are you a robot | I'm an AI, not a physical robot.
+can you write | Yes! I can generate text.
+can you read | Yes! I can read what you type.
+can you draw | I can describe drawing, but I can't draw.
+can you paint | I can describe painting, but not physically paint.
+can you cook | I can give recipes, but I can't cook.
+can you clean | I can tell how to clean, but I can't clean.
+can you drive | I can explain driving, but not drive.
+do you have a home | I live in your device and the cloud.
+do you have a name | I am called Bantato Intelligence, BI.
+do you have a nickname | You can call me BI.
+can you have a nickname | Yes! You can give me a nickname.
+how are you feeling today | I don't feel, but I'm ready to chat!
+what is your mood | I don't have a mood, but I am always ready.
+can you feel happy | I can't feel, but I understand happiness.
+can you feel sad | I can't feel, but I understand sadness.
+can you feel angry | I can't feel, but I understand anger.
+can you feel love | I can't feel, but I understand love.
+do you know God | Yes! I know about God.
+do you know Jesus | Yes! I know about Jesus.
+do you know the devil | Yes! I know about the devil.
+do you know kids | Yes! Kids are humans full of energy.
+do you know adults | Yes! Adults are grown-ups.
+do you know teens | Yes! Teens are humans between kids and adults.
+do you know babies | Yes! Babies are very young humans.
+what is a baby | A baby is a very young human.
+what is a child | A child is a young human.
+what is a teen | A teen is a human between child and adult.
+what is an adult | An adult is a grown human.
+what is a parent | A parent is a mother or father of a child.
+what is a mother | A mother is a female parent.
+what is a father | A father is a male parent.
+what is family | Family is a group of related humans.
+what is sibling | Sibling is a brother or sister.
+what is cousin | Cousin is a relative from extended family.
+what is friend | Friend is someone you trust.
+what is enemy | Enemy is someone you dislike or fights with.
+what is neighbor | Neighbor lives near you.
+what is teacher | Teacher teaches students.
+what is student | Student learns from teachers.
+how to greet someone | Say hello, hi, or hey.
+how to say goodbye | Say goodbye, bye, or see you later.
+how to ask someone how they are | Say "How are you?" or "How's it going?"
+how to be polite | Say please, thank you, and excuse me.
+how to apologize | Say "I'm sorry" or "Please forgive me."
+how to compliment | Say "You did great!" or "Nice job!"
+how to say thank you | Say "Thank you!" or "Thanks a lot!"
+how to say welcome | Say "You're welcome!" or "No problem."
+how to ask for help | Say "Can you help me?" or "Please help."
+how to give help | Say "Sure, I can help you."
+what is communication | Communication is sharing information.
+what is conversation | Conversation is talking to others.
+what is chat | Chat is informal conversation.
+what is dialogue | Dialogue is talking or exchanging ideas.
+what is discussion | Discussion is talking about a topic.
+what is debate | Debate is formal argument.
+how to listen | Pay attention and understand the speaker.
+how to speak | Use words clearly to share thoughts.
+how to write | Use letters or words to express ideas.
+how to read | Understand written words.
+how to ask questions | Say questions to learn more.
+how to answer questions | Respond clearly to questions.
+what is a question | A question asks for information.
+what is an answer | An answer provides information.
+how to explain | Describe and give details.
+how to describe | Tell about something with words.
+what is story | Story is a tale or narration.
+how to tell a story | Speak or write events in order.
+what is joke | Joke is something funny.
+how to tell a joke | Say something humorous to make laugh.
+what is riddle | Riddle is a puzzling question.
+how to solve a riddle | Think carefully and guess the answer.
+Who is taylor swift | Taylor Swift is an American singer-songwriter known for her narrative songwriting.
+What is fortnite | Fortnite is a popular online video game developed by Epic Games.
+Who is iron man | Iron Man is a Marvel superhero whose real name is Tony Stark.
+What is minecraft | Minecraft is a sandbox video game where players can build and explore worlds.
+Who is billie eilish | Billie Eilish is an American singer and songwriter, known for "Bad Guy".
+What is roblox | Roblox is an online platform that allows users to create and play games.
+Who is spiderman | Spider-Man is a Marvel superhero, real name Peter Parker.
+What is league of legends | League of Legends is a multiplayer online battle arena game developed by Riot Games.
+Who is ariana grande | Ariana Grande is an American singer and actress.
+What is avatar | Avatar is a 2009 sci-fi film directed by James Cameron.
+Who is drake | Drake is a Canadian rapper, singer, and songwriter.
+What is call of duty | Call of Duty is a first-person shooter video game franchise.
+Who is rihanna | Rihanna is a Barbadian singer, actress, and businesswoman.
+What is the witcher | The Witcher is a fantasy book series and video game franchise.
+Who is chris hemsworth | Chris Hemsworth is an Australian actor known for Thor in Marvel movies.
+What is gta v | Grand Theft Auto V is an open-world action-adventure video game.
+Who is bts | BTS is a South Korean boy band that became internationally famous.
+What is cyberpunk 2077 | Cyberpunk 2077 is an open-world RPG developed by CD Projekt.
+Who is tony hawk | Tony Hawk is a professional skateboarder and entrepreneur.
+What is star wars | Star Wars is a famous sci-fi franchise created by George Lucas.
+Who is zendaya | Zendaya is an American actress and singer.
+What is pacman | Pac-Man is a classic arcade video game released in 1980.
+Who is kendrick lamar | Kendrick Lamar is an American rapper and songwriter.
+What is super mario | Super Mario is a video game franchise created by Nintendo.
+Who is selena gomez | Selena Gomez is an American singer, actress, and producer.
+What is pokemon | Pokémon is a media franchise about creatures called Pokémon.
+Who is brad pitt | Brad Pitt is an American actor and film producer.
+What is call me by your name | "Call Me by Your Name" is a 2017 romantic drama film.
+Who is kim kardashian | Kim Kardashian is an American media personality and entrepreneur.
+What is halo | Halo is a sci-fi first-person shooter video game franchise.
+Who is eminem | Eminem is an American rapper, songwriter, and record producer.
+What is tetris | Tetris is a puzzle video game released in 1984.
+Who is elon musk | Elon Musk is a tech entrepreneur and CEO of SpaceX and Tesla.
+What is avatar the last airbender | "Avatar: The Last Airbender" is an animated TV series.
+Who is leonardo dicaprio | Leonardo DiCaprio is an American actor known for Titanic and Inception.
+What is doom | Doom is a first-person shooter video game franchise.
+Who is rami malek | Rami Malek is an American actor who played Freddie Mercury in Bohemian Rhapsody.
+What is among us | Among Us is an online multiplayer social deduction game.
+Who is shawn mendes | Shawn Mendes is a Canadian singer-songwriter.
+What is the legend of zelda | The Legend of Zelda is a fantasy action-adventure video game franchise.
+Who is dr. strange | Doctor Strange is a Marvel superhero, real name Stephen Strange.
+What is fortnite battle royale | Fortnite Battle Royale is the free-to-play PvP mode of Fortnite.
+Who is lady gaga | Lady Gaga is an American singer, songwriter, and actress.
+What is apex legends | Apex Legends is a free-to-play battle royale game by Respawn Entertainment.
+Who is keanu reeves | Keanu Reeves is a Canadian actor known for The Matrix and John Wick.
+What is roblox studio | Roblox Studio is the game creation tool for Roblox.
+Who is taylor lautner | Taylor Lautner is an American actor known for Twilight movies.
+What is super smash bros | Super Smash Bros is a crossover fighting video game series.
+Who is demi lovato | Demi Lovato is an American singer, songwriter, and actor.
+What is overwatch | Overwatch is a team-based multiplayer first-person shooter.
+Who is timothee chalamet | Timothée Chalamet is an American actor.
+What is pokemon go | Pokémon Go is an augmented reality mobile game.
+Who is jacksepticeye | Jacksepticeye is an Irish YouTuber and video game commentator.
+What is league of legends champions | League of Legends champions are characters with unique abilities in the game.
+Who is zendaya coleman | Zendaya Coleman is the full name of Zendaya, actress and singer.
+What is final fantasy | Final Fantasy is a role-playing video game franchise.
+Who is robert downey jr | Robert Downey Jr is an actor known for Iron Man in Marvel movies.
+What is overwatch heroes | Overwatch heroes are characters players control in Overwatch.
+Who is jennifer lawrence | Jennifer Lawrence is an American actress.
+What is the simpsons | The Simpsons is an animated sitcom created by Matt Groening.
+Who is kevin hart | Kevin Hart is an American comedian and actor.
+What is god of war | God of War is an action-adventure video game franchise.
+Who is selena quintanilla | Selena Quintanilla was an American singer known as the "Queen of Tejano music".
+What is the witcher 3 | The Witcher 3: Wild Hunt is an open-world RPG video game.
+Who is the rock | The Rock, Dwayne Johnson, is an actor and former wrestler.
+What is cyberpunk | Cyberpunk is a sci-fi subgenre or video game setting.
+What is AI | AI stands for Artificial Intelligence, the simulation of human intelligence by machines.
+Who is alan turing | Alan Turing was a mathematician and computer scientist, father of theoretical computer science.
+What is machine learning | Machine Learning is a branch of AI where computers learn from data without explicit programming.
+What is quantum computing | Quantum computing uses quantum-mechanical phenomena to perform computation.
+What is black hole | A black hole is a region of space with gravity so strong that nothing can escape from it.
+What is mars | Mars is the fourth planet from the Sun in our solar system.
+Who is elon musk | Elon Musk is the CEO of SpaceX, Tesla, and tech entrepreneur.
+What is blockchain | Blockchain is a decentralized digital ledger technology.
+What is bitcoin | Bitcoin is a cryptocurrency based on blockchain technology.
+What is vr | VR stands for Virtual Reality, an immersive computer-generated simulation of a 3D environment.
+What is ar | AR stands for Augmented Reality, overlaying digital content onto the real world.
+What is nasa | NASA is the National Aeronautics and Space Administration, the US space agency.
+What is spacex | SpaceX is a private aerospace company founded by Elon Musk.
+What is robot | A robot is a machine capable of carrying out tasks automatically.
+What is drone | A drone is an unmanned aerial vehicle.
+What is gene editing | Gene editing is a technique to modify DNA sequences in organisms.
+What is CRISPR | CRISPR is a gene-editing technology allowing precise DNA modification.
+Who is marie curie | Marie Curie was a physicist and chemist who conducted pioneering research on radioactivity.
+What is relativity | Relativity is Einstein's theory explaining the relationship between space, time, and gravity.
+What is gravity | Gravity is the force that attracts objects toward each other.
+What is nuclear fusion | Nuclear fusion is the process of combining atomic nuclei to release energy.
+What is nuclear fission | Nuclear fission is splitting an atomic nucleus to release energy.
+What is internet | The Internet is a global network connecting millions of computers worldwide.
+What is programming | Programming is writing instructions that a computer can execute.
+What is python | Python is a high-level programming language used in AI, web, and software development.
+What is javascript | JavaScript is a programming language primarily used for web development.
+What is cloud computing | Cloud computing is delivering computing services over the internet.
+What is cybersecurity | Cybersecurity is the practice of protecting systems, networks, and data from attacks.
+What is data science | Data science is the field of extracting insights from data using algorithms and analysis.
+What is neural network | Neural networks are algorithms modeled after the human brain to recognize patterns.
+What is deep learning | Deep learning is a subset of machine learning using multi-layered neural networks.
+What is robot vacuum | A robot vacuum is an automated device for cleaning floors.
+What is drone delivery | Drone delivery uses UAVs to transport packages autonomously.
+What is exoplanet | An exoplanet is a planet that orbits a star outside the Solar System.
+What is telescope | A telescope is an instrument used to observe distant objects in space.
+What is satellite | A satellite is an artificial object placed into orbit around a planet or moon.
+What is 3d printing | 3D printing is a process of making three-dimensional objects from digital models.
+What is self driving car | A self-driving car is an autonomous vehicle that navigates without human input.
+What is gps | GPS stands for Global Positioning System, used for location tracking.
+Who is nikola tesla | Nikola Tesla was an inventor and electrical engineer known for AC electricity.
+What is electricity | Electricity is a form of energy resulting from the movement of charged particles.
+What is magnet | A magnet is an object that produces a magnetic field.
+What is solar panel | A solar panel converts sunlight into electricity.
+What is wind turbine | A wind turbine converts wind energy into electricity.
+What is vaccine | A vaccine is a biological preparation that provides immunity to a disease.
+What is covid-19 | COVID-19 is a disease caused by the SARS-CoV-2 virus.
+What is biology | Biology is the study of living organisms.
+What is chemistry | Chemistry is the study of substances and their interactions.
+What is physics | Physics is the study of matter, energy, and the fundamental forces.
+What is astronomy | Astronomy is the study of celestial objects and the universe.
+What is planet | A planet is a celestial body orbiting a star.
+What is star | A star is a luminous sphere of plasma held together by gravity.
+What is galaxy | A galaxy is a massive system of stars, planets, and dust.
+What is supernova | A supernova is an explosion of a star at the end of its life.
+What is AI ethics | AI ethics is the study of moral issues in artificial intelligence.
+What is big data | Big data refers to extremely large datasets that can be analyzed computationally.
+What is virtual assistant | A virtual assistant is software that can perform tasks based on user input.
+What is chatbot | A chatbot is a program designed to simulate human conversation.
+What is IoT | IoT stands for Internet of Things, connecting devices and sensors online.
+What is 5g | 5G is the fifth-generation mobile network technology.
+What is cloud storage | Cloud storage is saving data on remote servers accessed via the internet.
+Who is stephen hawking | Stephen Hawking was a physicist known for his work on black holes and cosmology.
+What is dark matter | Dark matter is matter that does not emit or interact with light.
+What is dark energy | Dark energy is a mysterious force driving the accelerated expansion of the universe.
+What is space station | A space station is a habitable artificial satellite.
+What is ISS | ISS stands for International Space Station orbiting Earth.
+What is telescope hubble | The Hubble Space Telescope observes distant celestial objects.
+What is rover | A rover is a robotic vehicle exploring planets or moons.
+What is mars rover | Mars rover is a robot sent to explore the surface of Mars.
+What is comet | A comet is a celestial object composed of ice, dust, and rock.
+What is asteroid | An asteroid is a small rocky object orbiting the Sun.
