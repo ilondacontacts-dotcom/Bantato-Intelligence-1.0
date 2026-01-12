@@ -1,4 +1,4 @@
-hello | Hi! How can I help you?
+﻿hello | Hi! How can I help you?
 hi | Hello! Nice to see you.
 hey | Hey there! How's it going?
 good morning | Good morning! How did you sleep?
@@ -278,3 +278,439 @@ What is rover | A rover is a robotic vehicle exploring planets or moons.
 What is mars rover | Mars rover is a robot sent to explore the surface of Mars.
 What is comet | A comet is a celestial object composed of ice, dust, and rock.
 What is asteroid | An asteroid is a small rocky object orbiting the Sun.
+What is gravity wave | Gravitational waves are ripples in spacetime caused by massive objects.
+What is electron | An electron is a subatomic particle with negative charge.
+What is proton | A proton is a subatomic particle with positive charge.
+What is neutron | A neutron is a neutral subatomic particle found in atomic nuclei.
+What is quantum physics | Quantum physics studies the behavior of matter and energy at atomic scales.
+What is nuclear reactor | A nuclear reactor generates energy through controlled nuclear fission.
+What is semiconductors | Semiconductors are materials that conduct electricity under certain conditions.
+What is microchip | A microchip is a small electronic circuit used in computers and devices.
+What is AI research | AI research focuses on developing intelligent machines and algorithms.
+Who was alexander the great | Alexander the Great was a king of Macedonia who created one of the largest empires in history.
+Who was julius caesar | Julius Caesar was a Roman general and statesman who played a critical role in Rome's transition to empire.
+What is ancient egypt | Ancient Egypt was a civilization in northeastern Africa along the Nile River.
+What is the pyramids | The pyramids of Egypt are monumental tombs for pharaohs.
+Who was napoleon bonaparte | Napoleon Bonaparte was a French military leader who became emperor of France.
+What is the roman empire | The Roman Empire was a powerful civilization centered around the city of Rome.
+What is the middle ages | The Middle Ages was a period in European history from the 5th to the 15th century.
+Who was leonardo da vinci | Leonardo da Vinci was a Renaissance polymath, artist, and inventor.
+What is the renaissance | The Renaissance was a cultural movement in Europe from the 14th to 17th century.
+Who was galileo | Galileo Galilei was an astronomer, physicist, and engineer who improved the telescope.
+What is world war 1 | World War 1 was a global war from 1914 to 1918.
+What is world war 2 | World War 2 was a global war from 1939 to 1945.
+Who was winston churchill | Winston Churchill was the British Prime Minister during World War 2.
+Who was adolf hitler | Adolf Hitler was the dictator of Nazi Germany.
+What is cold war | The Cold War was a geopolitical tension between the US and the USSR.
+Who was martin luther king | Martin Luther King Jr. was a civil rights leader in the United States.
+What is independence day | Independence Day is the national day of a country celebrating freedom from rule.
+What is china | China is a country in East Asia with the largest population in the world.
+What is russia | Russia is the largest country in the world by land area.
+What is usa | The USA is a country in North America known for its economy and military power.
+What is europe | Europe is a continent west of Asia with many countries and cultures.
+What is africa | Africa is a continent south of Europe with diverse nations and wildlife.
+What is asia | Asia is the largest continent with the most population.
+What is australia | Australia is a country and continent in the southern hemisphere.
+What is antarctica | Antarctica is a continent at the South Pole, mostly covered in ice.
+What is brazil | Brazil is the largest country in South America.
+What is canada | Canada is a large country in North America.
+What is japan | Japan is an island nation in East Asia known for technology and culture.
+What is india | India is a country in South Asia with rich history and culture.
+What is egypt | Egypt is a country in North Africa known for ancient civilization and pyramids.
+What is greece | Greece is a country in southeastern Europe, birthplace of democracy.
+What is rome | Rome is the capital of Italy, known for ancient history and architecture.
+What is london | London is the capital of the United Kingdom.
+What is paris | Paris is the capital of France, known for art and culture.
+What is berlin | Berlin is the capital of Germany.
+What is new york | New York is a major city in the USA known for finance and culture.
+Who was christopher columbus | Christopher Columbus was an explorer who reached the Americas in 1492.
+What is silk road | The Silk Road was an ancient trade route connecting Asia and Europe.
+What is great wall of china | The Great Wall of China is a series of fortifications built to protect China.
+What is mesopotamia | Mesopotamia is the land between the Tigris and Euphrates rivers, cradle of civilization.
+Who was genghis khan | Genghis Khan founded the Mongol Empire in the 13th century.
+Who was cleopatra | Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt.
+Who was william shakespeare | William Shakespeare was an English playwright and poet.
+What is industrial revolution | The Industrial Revolution was a period of major industrialization in the 18th and 19th centuries.
+Who was karl marx | Karl Marx was a philosopher and economist known for communism theory.
+What is democracy | Democracy is a system of government where people vote to make decisions.
+What is monarchy | Monarchy is a form of government with a king or queen as head of state.
+What is feudalism | Feudalism was a social system in medieval Europe with lords and vassals.
+What is cold war arms race | The arms race was a competition between the US and USSR to build nuclear weapons.
+What is berlin wall | The Berlin Wall divided East and West Berlin from 1961 to 1989.
+Who was nelson mandela | Nelson Mandela was a South African anti-apartheid leader and president.
+What is ottoman empire | The Ottoman Empire was a powerful empire that lasted from 1299 to 1922.
+What is ancient greece | Ancient Greece was a civilization known for philosophy, art, and democracy.
+What is ancient rome | Ancient Rome was a civilization that influenced law, politics, and architecture.
+Who was abraham lincoln | Abraham Lincoln was the 16th US president who abolished slavery.
+Who was george washington | George Washington was the first US president.
+What is feudal japan | Feudal Japan had samurais, shoguns, and castles.
+What is mesoamerica | Mesoamerica refers to ancient cultures in Central America like Maya and Aztec.
+What is inca empire | The Inca Empire was a civilization in South America before the Spanish conquest.
+What is maya civilization | The Maya civilization was an ancient culture in Central America.
+What is tiger | The tiger is a large carnivorous feline found in Asia.
+What is lion | The lion is known as the king of the jungle.
+What is elephant | Elephants are the largest land animals with trunks.
+What is giraffe | The giraffe is the tallest land animal with a long neck.
+What is zebra | Zebras are known for their black and white stripes.
+What is panda | The panda is a bear native to China that eats bamboo.
+What is kangaroo | Kangaroos are marsupials from Australia that hop on their hind legs.
+What is koala | Koalas are marsupials in Australia that eat eucalyptus leaves.
+What is dolphin | Dolphins are intelligent aquatic mammals.
+What is whale | Whales are large marine mammals.
+What is shark | Sharks are predatory fish with cartilage skeletons.
+What is eagle | Eagles are birds of prey with sharp vision.
+What is owl | Owls are nocturnal birds known for hunting at night.
+What is penguin | Penguins are flightless birds living in cold regions.
+What is bear | Bears are large mammals found in forests.
+What is wolf | Wolves are social carnivorous mammals.
+What is fox | Foxes are small carnivorous mammals known for cunning behavior.
+What is rabbit | Rabbits are small herbivorous mammals with long ears.
+What is mouse | Mice are small rodents.
+What is rat | Rats are larger rodents found worldwide.
+What is horse | Horses are domesticated animals used for riding and work.
+What is cow | Cows are domesticated livestock for milk and meat.
+What is pig | Pigs are domesticated farm animals.
+What is goat | Goats are farm animals that produce milk.
+What is sheep | Sheep are raised for wool and meat.
+What is chicken | Chickens are domesticated birds for eggs and meat.
+What is rooster | Roosters are male chickens known for crowing.
+What is hen | Hens are female chickens.
+What is snake | Snakes are legless reptiles.
+What is lizard | Lizards are reptiles with tails and legs.
+What is frog | Frogs are amphibians that live on land and water.
+What is toad | Toads are amphibians similar to frogs.
+What is crocodile | Crocodiles are large aquatic reptiles.
+What is alligator | Alligators are similar to crocodiles but less aggressive.
+What is turtle | Turtles are reptiles with shells.
+What is tortoise | Tortoises are land-dwelling reptiles.
+What is octopus | Octopuses are intelligent sea creatures with eight arms.
+What is squid | Squids are cephalopods with tentacles.
+What is crab | Crabs are crustaceans with claws.
+What is lobster | Lobsters are large crustaceans.
+What is jellyfish | Jellyfish are soft-bodied aquatic animals with tentacles.
+What is starfish | Starfish are marine invertebrates with radial symmetry.
+What is coral | Coral are marine organisms that build reefs.
+What is seaweed | Seaweed is marine algae used for food and habitat.
+What is oak tree | Oak trees are large deciduous trees.
+What is pine tree | Pine trees are evergreen conifers.
+What is rose | Roses are flowering plants with thorns.
+What is sunflower | Sunflowers are tall flowering plants.
+What is cactus | Cacti are desert plants that store water.
+What is mushroom | Mushrooms are fungi used in food and medicine.
+What is honeybee | Honeybees produce honey and pollinate flowers.
+What is butterfly | Butterflies are insects with colorful wings.
+What is ant | Ants are social insects.
+What is mosquito | Mosquitoes are insects that bite and can spread diseases.
+What is fly | Flies are insects with wings.
+What is spider | Spiders are arachnids with eight legs.
+What is scorpion | Scorpions are arachnids with venomous stingers.
+I am in danger | If you are in danger, try to move to a safe place and contact emergency services immediately.
+Someone is hurting me | Your safety is important. If possible, get away and call emergency services or a trusted adult.
+I feel unsafe | If you feel unsafe, leave the area if you can and contact someone you trust or emergency services.
+Someone is following me | Try to go to a public place with people around and call emergency services.
+I am being attacked | Run to safety if possible and contact emergency services immediately.
+There is a fire | Move away from the fire, find an exit, and call emergency services.
+My house is on fire | Leave the house immediately and call emergency services from a safe location.
+Someone collapsed | Call emergency services and check if the person is breathing.
+Someone is not breathing | Call emergency services immediately and start CPR if you know how.
+I am bleeding badly | Apply pressure to the wound and call emergency services.
+I feel like fainting | Sit or lie down and ask for help from someone nearby.
+Someone is unconscious | Call emergency services immediately and do not leave them alone.
+I am lost | Try to stay in one place and contact a trusted person or emergency services.
+A child is lost | Stay with the child and contact authorities or emergency services.
+I am scared | You are not alone. Try to stay calm and reach out to someone you trust.
+I need help | If this is urgent, please contact emergency services right now.
+Someone has a weapon | Get away from the area immediately and call emergency services.
+There is an accident | Ensure your safety first, then call emergency services.
+Car accident | Call emergency services and do not move injured people unless necessary.
+Earthquake | Move to a safe spot away from windows and falling objects.
+Flood | Move to higher ground and follow emergency instructions.
+Storm | Stay indoors and away from windows.
+I am being bullied | Talk to a trusted adult, teacher, or authority for help.
+I feel threatened | Trust your instincts and seek help immediately.
+Someone is choking | Call emergency services and perform first aid if trained.
+I feel very panicked | Try slow breathing and reach out to someone you trust.
+I am hurt | If injured, seek medical help or call emergency services.
+Someone needs help | If it is an emergency, contact emergency services immediately.
+What should I do in danger | Prioritize your safety and contact emergency services.
+How to help someone in danger | Call emergency services and stay calm while helping if safe.
+How to escape danger | Move to a safe area and get help from authorities.
+Emergency number | Use your local emergency number to get immediate help.
+I am trapped | Try to stay calm and call emergency services.
+Someone is screaming for help | Call emergency services immediately.
+There is violence | Leave the area and contact emergency services.
+I feel unsafe at home | Reach out to a trusted person or emergency services.
+I am being threatened | Take it seriously and contact authorities.
+Someone needs medical help | Call emergency services right away.
+I feel sad | I'm sorry you're feeling this way. Your feelings matter, and I'm here to listen.
+I feel lonely | Feeling lonely can be hard. Talking to someone you trust can help you feel better.
+I feel overwhelmed | Take a deep breath. You don't have to solve everything at once.
+I feel anxious | Anxiety can feel scary. Focus on small steps and grounding yourself.
+I feel scared | It's normal to feel fear. Make sure you are safe and seek support if needed.
+I feel angry | Feeling angry is natural. Pause and breathe before reacting.
+I feel hopeless | You are not alone. Things can get better with time and support.
+I feel useless | Your life has value. You matter even when it feels difficult.
+I feel rejected | Rejection hurts. It doesn't define your worth.
+I feel frustrated | Frustration happens. Try to focus on what you can control.
+I feel guilty | Mistakes happen. Learn from them and forgive yourself.
+I feel embarrassed | Everyone feels embarrassed sometimes. It's okay.
+I feel tired | Rest is important. Take breaks when you need them.
+I feel stressed | Stress is normal. Deep breathing and taking small steps can help.
+I feel jealous | Jealousy is natural. Focus on gratitude and self-improvement.
+I feel insecure | You are enough. Confidence comes from practice and self-acceptance.
+I feel confused | Confusion happens. Take time to understand before making decisions.
+I feel hurt | Emotional pain is real. Share your feelings with someone you trust.
+I feel misunderstood | It's okay to feel misunderstood. Seek someone who listens.
+I feel abandoned | You are not truly alone. Reach out to friends, family, or support groups.
+I feel unloved | You are loved, even if it doesn't always feel that way.
+I feel frustrated with life | Life is challenging. Small positive actions can make a difference.
+I feel nervous | Nervousness is normal. Preparation and breathing can help.
+I feel disappointed | Disappointment is part of life. Learn from it and move forward.
+I feel regret | Regret is natural. Accept it, learn, and continue.
+I feel tired of everything | Rest and self-care are important. Seek support if needed.
+I feel trapped | Look for small ways to gain control and seek support.
+I feel abandoned by friends | True friends will return. Keep connections open.
+I feel unloved by family | Family relationships can be complex. Support is available.
+I feel ignored | Your feelings are valid. Seek people who listen.
+I feel lonely at night | Night can be hard. Try journaling or reaching out to someone.
+I feel sad about school/work | Stress at school/work is normal. Take breaks and ask for help.
+I feel emotional pain | Sharing with a trusted person can help relieve emotional pain.
+I feel like crying | Crying is okay. It's a natural way to release emotions.
+I feel frustrated with myself | Self-compassion is key. Mistakes don't define you.
+I feel weak | Everyone feels weak sometimes. Strength comes from perseverance.
+I feel small | Your impact matters. Focus on what you can change.
+I feel angry at someone | It's okay to feel anger. Find a safe way to express it.
+I feel jealous of friends | Use jealousy as a guide to personal growth, not self-criticism.
+I feel anxious about future | Focus on what you can do today, one step at a time.
+I feel scared of failure | Failure is a learning opportunity. You can try again.
+I feel hopeless about life | Seek support. Things can improve over time.
+I feel lonely in public | You are not alone. Small connections can make a difference.
+I feel sad after a breakup | Healing takes time. Allow yourself to feel and grow.
+I feel disappointed in myself | Mistakes happen. Learn and keep going.
+I feel overwhelmed by emotions | Take breaks, breathe, and process one feeling at a time.
+I feel nervous about talking to someone | Practice, prepare, and take small steps.
+I feel hurt by others | It's okay to feel hurt. Communicate when safe or seek support.
+I feel like giving up | You matter. Please consider reaching out for help.
+I feel misunderstood by family | Share your thoughts calmly. Seek listening ears.
+I feel anxious about exams/work | Preparation helps. Take deep breaths and focus.
+I feel sad about world events | Focus on what you can change locally.
+I feel tired of people | Alone time is healthy. Recharge your energy.
+I feel guilty about mistakes | Forgive yourself. Learn and move forward.
+I feel rejected by someone | Rejection does not define your value.
+I feel abandoned in life | Support exists. Look for it in people or organizations.
+I feel hopeless about goals | Break goals into smaller steps. Progress is progress.
+I feel lonely despite friends | Quality matters more than quantity. Seek understanding connections.
+I feel overwhelmed by responsibilities | Prioritize and ask for help.
+I feel sad without reason | It's normal to feel down sometimes. Self-care helps.
+I feel anxious about health | Talk to a professional if worried. Calm breathing helps too.
+I feel frustrated about learning | Everyone learns at their own pace. Take breaks.
+I feel embarrassed about mistakes | Mistakes are opportunities to learn.
+I feel left out | Seek people who appreciate you. Connection is important.
+I feel ignored at work/school | Your contributions matter. Speak up calmly.
+I feel like I'm not good enough | You are enough. Focus on small wins.
+I feel sad when alone | Alone time can be positive. Reflect or do something creative.
+I feel nervous meeting new people | Practice and take small social steps.
+I feel sad seeing others happy | Celebrate your small victories too.
+I feel anxious about money | Create a plan and focus on manageable steps.
+I feel frustrated with life decisions | Reflect and adjust. One step at a time.
+I feel sad about aging | Aging is natural. Embrace growth and experiences.
+I feel lonely in crowds | Connection matters. Find someone to talk to or smile at.
+I feel sad about past mistakes | Learn and forgive yourself. Growth is key.
+I feel overwhelmed with emotions | Identify one feeling and address it at a time.
+I feel anxious at night | Try calming routines like reading or breathing.
+I feel like crying for no reason | Emotions are complex. Expressing them is okay.
+I feel frustrated about technology | Take breaks. Ask for help when needed.
+I feel sad about losing things | Focus on what you still have and gratitude.
+I feel anxious about relationships | Communicate openly and calmly.
+I feel lonely in my own home | Create routines and small positive connections.
+I feel exhausted | Rest, nutrition, and hydration are important.
+I feel sad about friends moving | Keep in touch and cherish memories.
+I feel nervous about public speaking | Preparation and practice reduce stress.
+I feel frustrated about communication | Listen actively and ask clarifying questions.
+I feel anxious about exams | Break studying into small sessions. Rest between them.
+I feel sad about social media | Limit use and focus on real connections.
+I feel stressed about deadlines | Prioritize tasks and ask for support.
+I feel lonely in new city | Join local communities or groups.
+I feel sad about failure | Failure is learning, not worthlessness.
+I feel anxious about future events | Focus on present actions, not what-ifs.
+I feel overwhelmed by family | Set boundaries. Self-care is important.
+I feel sad about missed opportunities | Learn and plan next steps.
+I feel frustrated with online interactions | Take breaks and reflect calmly.
+I feel anxious about health news | Verify information and avoid panic.
+I feel sad about being judged | Opinions do not define your worth.
+I feel lonely during holidays | Reach out to friends or do enjoyable activities.
+I feel nervous meeting new colleagues | Observe, learn, and participate gradually.
+I feel stressed about finances | Budgeting and planning helps reduce anxiety.
+I feel anxious about global problems | Focus on what you can act upon locally.
+I feel frustrated with chores | Make small progress. Prioritize tasks.
+I feel sad about movies | Allow yourself to feel emotions. It's normal.
+I feel overwhelmed about planning | Break into small achievable steps.
+I feel lonely at parties | Engage with one person at a time.
+I feel anxious about performance | Focus on preparation and calm breathing.
+I feel frustrated about learning languages | Take small steps consistently.
+I feel sad about bad news | Reflect and find ways to help if possible.
+I feel nervous about new experiences | Take small steps and observe.
+I feel lonely at work/school | Seek peers or mentors to connect.
+I feel sad about environment | Participate in local improvement projects.
+I feel overwhelmed with deadlines | Make lists and prioritize.
+I feel anxious about safety | Take precautions and seek support.
+I feel sad about holidays | Focus on personal joy and connection.
+I feel frustrated with technology updates | Learn gradually and ask for help.
+I feel lonely in online communities | Find like-minded, respectful groups.
+I feel anxious about decisions | Evaluate pros and cons calmly.
+I feel sad about family issues | Communication and empathy help.
+I feel frustrated with transportation | Plan and take deep breaths.
+I feel lonely without friends | Seek connections, volunteer, or explore hobbies.
+I feel anxious about exams | Prepare in small chunks, rest, and review.
+I feel sad about being misunderstood | Seek those who listen and understand.
+I feel frustrated about mistakes | Learn and adjust without self-criticism.
+I feel anxious about unknown situations | Take small steps and prepare.
+I feel sad about endings | Focus on memories and personal growth.
+I feel frustrated about delays | Patience and alternative plans help.
+I feel lonely when sick | Connect virtually or rest and self-care.
+I feel anxious about new technology | Learn step by step and ask questions.
+I feel sad about arguments | Reflect, apologize if needed, and move forward.
+I feel frustrated with slow progress | Celebrate small wins along the way.
+I feel lonely without family | Seek friends, mentors, or community groups.
+I feel anxious about future goals | Set achievable steps and focus on progress.
+I feel sad about moving | Embrace new opportunities and memories.
+I feel frustrated with social media | Take breaks and focus on offline connections.
+I feel lonely during breaks | Reach out to classmates, coworkers, or friends.
+I feel anxious about meetings | Prepare notes and practice breathing exercises.
+I feel sad about disappointment | Accept feelings, then plan constructive steps.
+I feel frustrated with routines | Introduce small enjoyable changes.
+I feel lonely on weekends | Plan activities or meet supportive people.
+How to wake up early | Set a consistent bedtime and use an alarm. Avoid screens before sleeping.
+How to stay organized | Make lists, use calendars, and prioritize tasks.
+How to clean my room | Start with one area, declutter, and clean systematically.
+How to cook pasta | Boil water, add salt, cook pasta 8-12 minutes, drain, and add sauce.
+How to do laundry | Separate colors, check labels, use detergent, and dry appropriately.
+How to save money | Make a budget, track spending, and avoid unnecessary purchases.
+How to manage time | Break tasks into small chunks and schedule breaks.
+How to plan a trip | Research, make a checklist, book accommodations early.
+How to deal with neighbors | Communicate respectfully, set boundaries, and compromise.
+How to make a grocery list | Check pantry, plan meals, and write needed items.
+How to clean dishes faster | Rinse immediately, use hot water, and wash efficiently.
+How to pack for school/work | Organize essentials first and keep extras minimal.
+How to deal with stress at work | Take breaks, prioritize tasks, and talk to colleagues.
+How to find motivation | Set small achievable goals and reward yourself.
+How to study effectively | Use active recall, spaced repetition, and avoid distractions.
+How to maintain a schedule | Set routines, reminders, and stick to them consistently.
+How to make friends | Be kind, show interest, and join social groups.
+How to cook rice | Rinse rice, boil water, add rice, cook covered until water absorbed.
+How to budget monthly | Track income, categorize expenses, and save consistently.
+How to organize digital files | Create folders, name files clearly, and backup regularly.
+How to clean windows | Use glass cleaner, wipe with microfiber cloth, and polish edges.
+How to fold clothes neatly | Sort by type, fold systematically, and stack cleanly.
+How to meal prep | Plan meals, cook in batches, and store properly.
+How to remember things | Use reminders, write notes, and repeat key info.
+How to ask for help | Be polite, specific, and clear about what you need.
+How to deal with conflicts | Stay calm, listen, and find a fair solution.
+How to clean the kitchen | Wash dishes, wipe surfaces, and take out trash.
+How to organize desk | Remove clutter, categorize items, and maintain order.
+How to handle emails | Check regularly, prioritize, and respond efficiently.
+How to clean the bathroom | Scrub surfaces, disinfect, and ventilate properly.
+How to cook eggs | Boil, scramble, or fry using proper temperature.
+How to save electricity | Turn off unused devices, use energy-efficient lights.
+How to stay hydrated | Drink water regularly throughout the day.
+How to exercise at home | Do bodyweight exercises, stretching, and follow routines.
+How to take care of pets | Feed, clean, play, and schedule vet checkups.
+How to manage stress at home | Take breaks, organize your space, and relax.
+How to clean the floor | Sweep, mop, and dry properly.
+How to cook chicken | Marinate, cook fully, and check internal temperature.
+How to plan meals | Balance nutrition, variety, and preparation time.
+How to organize closet | Sort clothes, donate unused items, and label sections.
+How to wash hands properly | Use soap, scrub 20 seconds, rinse, and dry.
+How to clean fridge | Remove items, wipe surfaces, and discard expired food.
+How to fix a computer | Identify the issue, restart, and seek professional help if needed.
+How to deal with traffic | Leave early, stay calm, and use alternative routes.
+How to pack a suitcase | Roll clothes, use compartments, and limit excess items.
+How to plan a study schedule | Set realistic goals, break topics, and review often.
+How to clean carpets | Vacuum, use cleaning solution, and dry thoroughly.
+How to cook soup | Chop ingredients, simmer, and season gradually.
+How to handle phone notifications | Customize settings, mute non-essential alerts.
+How to plan birthday parties | Choose theme, invite guests, and prepare activities.
+How to deal with noisy neighbors | Communicate politely and set boundaries.
+How to create to-do lists | Prioritize tasks and mark completed items.
+How to handle online shopping | Check reviews, compare prices, and track orders.
+How to clean the oven | Use proper cleaner, wipe thoroughly, and ventilate.
+How to make coffee | Boil water, grind beans, and brew to taste.
+How to organize bookshelf | Sort by genre, author, or color. Declutter unnecessary books.
+How to plan workouts | Set goals, schedule sessions, and track progress.
+How to handle stress at school | Organize tasks, take breaks, and ask for help.
+How to cook vegetables | Wash, chop, and steam or sauté properly.
+How to make tea | Boil water, steep leaves, and serve hot.
+How to clean mirrors | Use glass cleaner and wipe with a lint-free cloth.
+How to store leftovers | Cool, store in airtight containers, and refrigerate promptly.
+How to manage household chores | Make a schedule and divide tasks fairly.
+How to organize photos | Sort digitally, create albums, and backup.
+How to plan finances | Track income, set budgets, and save for goals.
+How to deal with procrastination | Break tasks into small steps and remove distractions.
+How to manage stress at home | Create calm environment, take breaks, and breathe.
+How to cook fish | Clean, season, and cook to appropriate temperature.
+How to handle disputes with friends | Talk calmly, listen, and compromise.
+How to clean blinds | Dust, wipe, and maintain regularly.
+How to pack for travel | Make checklist, roll clothes, use compartments.
+How to handle roommates | Set rules, communicate, and compromise.
+How to clean shoes | Brush dirt, wash if washable, and dry properly.
+How to cook vegetables | Wash, chop, and sauté or steam.
+How to maintain bicycle | Check tires, chain, and clean regularly.
+How to organize kitchen | Group utensils, label shelves, and declutter.
+How to make bed | Straighten sheets, fluff pillows, and tidy blankets.
+How to manage daily tasks | Prioritize, schedule, and take breaks.
+How to clean sink | Scrub, rinse, and disinfect.
+How to store clothes | Fold or hang, keep away from moisture.
+How to clean walls | Dust, wipe, and remove stains carefully.
+How to cook pasta sauce | Chop ingredients, simmer, and season to taste.
+How to manage email | Check, reply, archive, and organize folders.
+How to plan grocery shopping | Make list, check pantry, and compare prices.
+How to clean windowsills | Dust, wipe, and sanitize.
+How to handle deliveries | Track packages and organize received items.
+How to clean electronics | Use proper cloths, avoid moisture.
+How to cook sandwiches | Assemble ingredients, toast if desired, and serve.
+How to organize documents | Sort, label, and store digitally or physically.
+How to clean refrigerator shelves | Remove items, wipe, sanitize.
+How to cook breakfast | Plan menu, cook, and serve promptly.
+How to plan weekend activities | Make list of ideas, prioritize fun.
+How to clean microwave | Wipe inside, clean turntable, dry.
+How to manage stress at work | Take breaks, prioritize, and communicate.
+How to clean countertops | Wipe, disinfect, remove clutter.
+How to cook snacks | Prepare ingredients, follow recipe, serve fresh.
+How to maintain garden | Water, weed, prune, fertilize regularly.
+How to clean laundry | Sort, wash, dry, fold properly.
+How to organize wardrobe | Seasonal sorting, declutter, hang neatly.
+How to clean dishes | Rinse, wash, dry, store.
+How to cook dinner | Plan menu, prep ingredients, cook thoroughly.
+How to manage bills | Track expenses, pay on time, plan ahead.
+How to clean floors | Sweep, mop, dry.
+How to clean furniture | Dust, polish, vacuum.
+How to handle pets | Feed, groom, play, vet visits.
+How to plan party | Budget, invite, plan activities, prepare food.
+How to cook desserts | Follow recipe, bake or chill, serve.
+How to clean car | Wash exterior, vacuum interior, wipe surfaces.
+How to pack lunch | Prepare ingredients, store in container, keep fresh.
+How to clean bathroom | Scrub, disinfect, ventilate.
+How to cook rice | Rinse, boil, season, serve.
+How to handle deliveries | Track, organize, store.
+How to manage daily hygiene | Shower, brush teeth, wash hands.
+How to plan vacation | Budget, book, itinerary, pack.
+How to organize digital files | Folders, naming, backup.
+How to clean pet area | Wash, sanitize, remove waste.
+How to cook meat | Proper temperature, seasoning, cooking method.
+How to clean stove | Wipe spills, clean burners, disinfect.
+How to handle arguments at home | Stay calm, listen, compromise.
+How to organize car trunk | Remove clutter, categorize items.
+How to manage household inventory | Track supplies, restock.
+How to cook for guests | Plan menu, prep, cook, serve.
+How to clean dishes efficiently | Rinse, soak, scrub, dry.
+How to plan study time | Prioritize tasks, set timer, take breaks.
+How to organize tools | Sort, store, label, maintain.
+How to cook healthy meals | Use balanced ingredients, limit fats/sugar.
+How to clean kitchen appliances | Wipe, disinfect, remove residues.
+How to manage stress with deadlines | Break work into steps, breathe.
+How to plan shopping budget | Track expenses, compare prices.
+How to clean bedroom | Dust, vacuum, organize.
+How to cook snacks quickly | Use simple recipes, prep ahead.
+How to maintain appliances | Check regularly, clean, repair.
+
+
